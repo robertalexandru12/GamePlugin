@@ -3,13 +3,13 @@ Plugin made for the Minecraft server play.addicted2.ro
 The plugin contains 3 default functions for a Minecraft server:
 
 
-Auto-Restart
+#Auto-Restart
 
 With this function the server will restart itself at a scheduled time by simply configurating it through the XML file.
 
 Also, you can easily restart your server using a in-game command "/addicted2 auto-restart".
 
-Vote Party
+#Vote Party
 
 Everytime when a certain amount of votes are accumulated, every player will receive a reward that can be changed in the config.
 
@@ -23,6 +23,6 @@ This plugin supports PlaceholderAPI:
     
     - /addicted2 party - shows how many votes are needed until the reward event
 
-AntiSPAM
+#AntiSPAM
 
 This function warns a player when they use the same sentence multiple times. If they keep saying the same sentence 3 times, they will get kicked to prevent spamming.
