@@ -3,7 +3,7 @@ Plugin made for the Minecraft server play.addicted2.ro
 The plugin contains 3 default functions for a Minecraft server:
 
 
-##Auto-Restart
+**Auto-Restart
 
 With this function the server will restart itself at a scheduled time by simply configurating it through the XML file.
 
