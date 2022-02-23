@@ -1,0 +1,12 @@
+name: Addicted2
+main: com.addicted2.core.MainClass
+version: 1.0
+depends: [Votifier]
+softdepend: [PlaceholderAPI]
+commands:
+   addicted2:
+      description: Aceasta este comanda principala.
+      usage: /<command> 
+   addicted2 system:
+      description: Vezi specificatiile sistemului.
+      usage: /<command> 
