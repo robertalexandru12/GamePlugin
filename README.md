@@ -6,7 +6,7 @@ The plugin contains 3 default functions for a game server:
 
    With this function the server will restart itself at a scheduled time by simply configurating it through the XML file.
 
-  Also, you can easily restart your server using a in-game command "/addicted2 auto-restart".
+  Also, you can easily restart your server using a in-game command "/game auto-restart".
 
 **Vote Party**
 
@@ -14,13 +14,13 @@ The plugin contains 3 default functions for a game server:
 
   This plugin supports PlaceholderAPI:
 
-    - %addicted2_votes% - shows how many votes are accumulated 
+    - %game_votes% - shows how many votes are accumulated 
     
-    - %addicted2_progress% - shows the progress bar 
+    - %game_progress% - shows the progress bar 
     
-    - %addicted2_procent% - shows the percentage of the accumulated votes
+    - %game_procent% - shows the percentage of the accumulated votes
     
-    - /addicted2 party - shows how many votes are needed until the reward event
+    - /game party - shows how many votes are needed until the reward event
 
 **AntiSPAM**
 
