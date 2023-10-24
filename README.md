@@ -1,5 +1,5 @@
-# Addicted2Core
-The plugin contains 3 default functions for a Minecraft server:
+# GameServerUtils
+The plugin contains 3 default functions for a game server:
 
 
 **Auto-Restart**
